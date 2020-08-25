@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+
 Hey Humans!
 
 Joe here. I cooked {ramen noodles and pizza.}
